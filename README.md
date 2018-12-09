@@ -59,6 +59,9 @@ https://youtu.be/PAUHHrd2pCg
 How fast you change targets:
 https://www.youtube.com/watch?v=KwJjMdXhJ4I&feature=youtu.be
 
+Not wasing cool downs (sorry for lag)
+https://www.youtube.com/watch?v=2MffgB8vmno
+
 
 
 # Video of not accidentally wasting cooldown on wrong mobs: 
