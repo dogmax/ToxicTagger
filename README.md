@@ -4,7 +4,9 @@ This addon enables you to easily make macros that are good for tagging mobs with
 
 This addon/macro is good for getting the tag on the right mobs with very little cognitive effort on your part. 
 
-I tried to make it as faceroll as possible which means that the most optimal way to use this macro is to bind it on the scroll wheel and spam it while jumping around in the area.
+I tried to make it as faceroll as possible which means that the most optimal way to use this macro is to bind it on the scroll wheel and spam it.
+
+If no one else is using this macro, you are pretty much guaranteed to get the tag every time.
 
 You don't have to worry about accidentally wasting your cooldowns on mobs you dont want to attack e.g.: 
 Mobs that are tagged by other players, wrong mobs or getting stuck targetting dead mobs. 
