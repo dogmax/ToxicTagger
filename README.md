@@ -56,7 +56,7 @@ This will tag both *Lesser Rock Elementals* and *Rock Elementals* which both dro
 
 Notice that Lightning Breath is a pet ability.
 
-# Videos
+# Videos (sorry for shit quality video i haven't recorded vids before)
 Successful tag
 https://youtu.be/PAUHHrd2pCg
 
@@ -65,9 +65,5 @@ https://www.youtube.com/watch?v=KwJjMdXhJ4I&feature=youtu.be
 
 Not wasing cool downs (sorry for lag)
 https://www.youtube.com/watch?v=2MffgB8vmno
-
-
-
-# Video of not accidentally wasting cooldown on wrong mobs: 
 
 
