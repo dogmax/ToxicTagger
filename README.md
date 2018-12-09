@@ -14,7 +14,7 @@ Mobs that are tagged by other players, wrong mobs or getting stuck targetting de
 # How to use: 
 Step 1: Install the addon, obviously. (Remove "-master" from the name")
 
-Make a macro like this:
+Step 2: Make a macro like this:
 
     /run toxictagger("Spell Name Here(Optional Rank X"), {"Name of Mob1", "Name of Mob2"});
 
@@ -25,6 +25,8 @@ For example:
 or 
 
     /run toxictagger("Fire Blast(Rank 1)", {"Mankrik's Wife", "VanCleef", "Stranglethorn Panther"});
+    
+Step 3: Bind the macro to scroll up+scroll down or use program like AutoHotkey to spam the macro 1000 times pr second.
     
 What you need: 
 
