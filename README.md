@@ -17,7 +17,11 @@ What you need:
 
 What the macro looks like: 
 
-/run toxictagger("Spell Name Here(Optional Rank X", {"Name of Mob1", "Name of Mob2"});
+/run toxictagger("Spell Name Here(Optional Rank X"), {"Name of Mob1", "Name of Mob2"});
+
+E.g.:
+
+/run toxictagger("Fire Blast", {"Mankrik's Wife", "VanCleef"});
 
 
 # Example use 1: 
