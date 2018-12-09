@@ -12,7 +12,7 @@ You don't have to worry about accidentally wasting your cooldowns on mobs you do
 Mobs that are tagged by other players, wrong mobs or getting stuck targetting dead mobs. 
 
 # How to use: 
-
+Step 1: Install the addon, obviously. (Remove "-master" from the name")
 
 Make a macro like this:
 
