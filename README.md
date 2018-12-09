@@ -12,19 +12,20 @@ You don't have to worry about accidentally wasting your cooldowns on mobs you do
 Mobs that are tagged by other players, wrong mobs or getting stuck targetting dead mobs. 
 
 # How to use: 
+
+
+Make a macro like this:
+
+    /run toxictagger("Spell Name Here(Optional Rank X"), {"Name of Mob1", "Name of Mob2"});
+
+For example: 
+
+    /run toxictagger("Fire Blast", {"Mankrik's Wife", "VanCleef", "Stranglethorn Panther"});
+    
 What you need: 
 
 * A spell you want to tag with. E.g. Fire Blast, Charge, Moonfire
 * Names of the mob(s) that you want to tag. 
-
-What the macro looks like: 
-
-    /run toxictagger("Spell Name Here(Optional Rank X"), {"Name of Mob1", "Name of Mob2"});
-
-E.g.:
-
-    /run toxictagger("Fire Blast", {"Mankrik's Wife", "VanCleef", "Stranglethorn Panther"});
-
 
 # Example use 1: 
 The best use case is when you are waiting for spawn of a rare mob and you have to compete for the tag against others. 
