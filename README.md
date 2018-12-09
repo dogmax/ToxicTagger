@@ -9,6 +9,17 @@ I tried to make it as faceroll as possible which means that the best way to use 
 You don't have to worry about accidentally wasting your cooldowns on mobs you dont want to attack e.g.: 
 Mobs that are tagged by other players, wrong mobs or getting stuck targetting dead mobs. 
 
+# How to use: 
+What you need: 
+
+* A spell you want to tag with. E.g. Fire Blast, Charge, Moonfire
+* Names of the mob(s) that you want to tag. 
+
+What the macro looks like: 
+
+/run toxictagger("Spell Name Here(Optional Rank X", {"Name of Mob1", "Name of Mob2"});
+
+
 # Example use 1: 
 The best use case is when you are waiting for spawn of a rare mob and you have to compete for the tag against others. 
 Let's say you need to kill **Yowler** for the quest *Howling in the Hills* and you want to tag with a rank 1 spell.
@@ -20,7 +31,10 @@ Let's say you are a lvl 15 Mage in Moonbrook, Westfall and need Defias Pillagers
 
 /run toxictagger("Fire Blast", {"Pillager", "Looter", "Goretusk"});
 
-Notice that you don't need to write the full name of the mob you want. You only need to write some of it. In this example I didnt write "Defias" but you *could* also make it work with {"Pill", "Loot"}
+Notice
+1) You don't need to write the full name of the mob you want. You only need to write some of it. In this example I didnt write "Defias" but you *could* also make it work with {"Pill", "Loot"}
+
+2) You dont need to specify rank of your spell. If you dont specify rank, it will use the highest rank.
 
 # Example use 3:
 Maybe you want to get the tag on earth elementals: 
