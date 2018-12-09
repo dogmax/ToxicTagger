@@ -22,6 +22,10 @@ For example:
 
     /run toxictagger("Fire Blast", {"Mankrik's Wife", "VanCleef", "Stranglethorn Panther"});
     
+or 
+
+    /run toxictagger("Fire Blast(Rank 1)", {"Mankrik's Wife", "VanCleef", "Stranglethorn Panther"});
+    
 What you need: 
 
 * A spell you want to tag with. E.g. Fire Blast, Charge, Moonfire
