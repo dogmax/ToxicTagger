@@ -19,23 +19,23 @@ What you need:
 
 What the macro looks like: 
 
-/run toxictagger("Spell Name Here(Optional Rank X"), {"Name of Mob1", "Name of Mob2"});
+    /run toxictagger("Spell Name Here(Optional Rank X"), {"Name of Mob1", "Name of Mob2"});
 
 E.g.:
 
-/run toxictagger("Fire Blast", {"Mankrik's Wife", "VanCleef", "Stranglethorn Panther"});
+    /run toxictagger("Fire Blast", {"Mankrik's Wife", "VanCleef", "Stranglethorn Panther"});
 
 
 # Example use 1: 
 The best use case is when you are waiting for spawn of a rare mob and you have to compete for the tag against others. 
 Let's say you need to kill **Yowler** for the quest *Howling in the Hills* and you want to tag with a rank 1 spell.
 
-/run toxictagger("Fire Blast(Rank 1)", {"Yowler"});
+    /run toxictagger("Fire Blast(Rank 1)", {"Yowler"});
 
 # Example use 2: 
 Let's say you are a lvl 15 Mage in Moonbrook, Westfall and need Defias Pillagers and Defias Looters for your quest. Maybe you need Goretusks too.
 
-/run toxictagger("Fire Blast", {"Pillager", "Looter", "Goretusk"});
+    /run toxictagger("Fire Blast", {"Pillager", "Looter", "Goretusk"});
 
 Notice
 1) You don't need to write the full name of the mob you want. You only need to write some of it. In this example I didnt write "Defias" but you *could* also make it work with {"Pill", "Loot"}
@@ -45,7 +45,7 @@ Notice
 # Example use 3:
 Maybe you want to get the tag on earth elementals: 
 
-/run toxictagger("Lightning Breath", {"Rock Elemental"});
+    /run toxictagger("Lightning Breath", {"Rock Elemental"});
 
 This will tag both *Lesser Rock Elementals* and *Rock Elementals* which both drop Elemental Earth. 
 
