@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: ToxicTagger
+## Notes: Send tips, love or hatemail to Johnlars on alliance Northdale
+## Author: Johnars
+
+ToxicTagger.lua
