@@ -23,7 +23,7 @@ What the macro looks like:
 
 E.g.:
 
-/run toxictagger("Fire Blast", {"Mankrik's Wife", "VanCleef"});
+/run toxictagger("Fire Blast", {"Mankrik's Wife", "VanCleef", "Stranglethorn Panther"});
 
 
 # Example use 1: 
@@ -56,3 +56,5 @@ Notice that Lightning Breath is a pet ability.
 https://youtu.be/PAUHHrd2pCg
 
 # Video of not accidentally wasting cooldown on wrong mobs: 
+
+
