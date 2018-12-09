@@ -26,7 +26,7 @@ or
 
     /run toxictagger("Fire Blast(Rank 1)", {"Mankrik's Wife", "VanCleef", "Stranglethorn Panther"});
     
-Step 3: Bind the macro to scroll up+scroll down or use program like AutoHotkey to spam the macro 1000 times pr second.
+Step 3: Bind the macro to scroll up+scroll down or use program like AutoHotkey to spam the macro faster than your framerate.
     
 What you need: 
 
