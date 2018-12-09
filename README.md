@@ -1,8 +1,8 @@
 # Why ToxicTagger
 
-This addon enables you to easily make macros that are good for tagging mobs with the toxictagger command without the need for SuperMacro.
+This addon enables you to easily make macros that are good for tagging mobs with the toxictagger command.
 
-This addon/macro is good for getting the tag on the right mobs with very little cognitive effort on your part. 
+This addon/macro is good for getting the tag on the right mobs with very little effort on your part. 
 
 I tried to make it as faceroll as possible which means that the most optimal way to use this macro is to bind it on the scroll wheel and spam it.
 
