@@ -16,7 +16,7 @@ Step 1: Install the addon, obviously. (Remove "-master" from the name")
 
 Step 2: Make a macro like this:
 
-    /run toxictagger("Spell Name Here(Optional Rank X"), {"Name of Mob1", "Name of Mob2"});
+    /run toxictagger("Spell Name Here(Optional Rank X)", {"Name of Mob1", "Name of Mob2"});
 
 For example: 
 
