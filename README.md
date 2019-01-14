@@ -62,7 +62,7 @@ Notice that Lightning Breath is a pet ability.
 Successful tag
 https://youtu.be/PAUHHrd2pCg
 
-How fast you change targets:
+How fast it scans targets:
 https://www.youtube.com/watch?v=KwJjMdXhJ4I&feature=youtu.be
 
 Not wasing cool downs (sorry for lag)
