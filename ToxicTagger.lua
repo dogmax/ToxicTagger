@@ -3,6 +3,7 @@ ScriptErrors:SetScript("OnShow", function(m) UIErrorsFrame:AddMessage("No target
 		
 		
 			function TryTake()
+			
 			TargetNearestEnemy();
 				for i=1,table.getn(x) do
 			
@@ -13,7 +14,10 @@ ScriptErrors:SetScript("OnShow", function(m) UIErrorsFrame:AddMessage("No target
 					else 
 						if (string.find(UnitName("target"), x[i])) then 
 							if (S=="Attack") then
-								 if not IsCurrentAction(12) then UseAction(12) end;
+								DEFAULT_CHAT_FRAME:AddMessage("Using ATTACK")
+								 if not IsCurrentAction(12) then 
+									CastSpellByName(S);
+								end;
 							else
 								CastSpellByName(S);
 							end
