@@ -13,7 +13,7 @@ ScriptErrors:SetScript("OnShow", function(m) UIErrorsFrame:AddMessage("No target
 					else 
 						if (string.find(UnitName("target"), x[i])) then 
 							if (S=="Attack") then
-								 if not IsCurrentAction(25) then UseAction(25) end;
+								 if not IsCurrentAction(12) then UseAction(12) end;
 							else
 								CastSpellByName(S);
 							end
