@@ -12,7 +12,11 @@ ScriptErrors:SetScript("OnShow", function(m) UIErrorsFrame:AddMessage("No target
 						
 					else 
 						if (string.find(UnitName("target"), x[i])) then 
-							CastSpellByName(S);
+							if (S=="Attack") then
+								 if not IsCurrentAction(25) then UseAction(25) end;
+							else
+								CastSpellByName(S);
+							end
 							UIErrorsFrame:AddMessage("Attempting "..S.." on: "..UnitName("target").." reason: "..x[i],1,0,0);
 							break;
 						end
